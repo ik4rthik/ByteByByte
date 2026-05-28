@@ -14,7 +14,6 @@ This repository contains practice programs, lab exercises, and experiments built
 - Object-Oriented Programming
 - File Handling
 - Operating Systems
-- Arduino & Embedded Basics
 
 ## 🎯 Purpose
 Learning programming step by step through implementation, experimentation, and practice.
